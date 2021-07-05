@@ -46,5 +46,6 @@ export default function JobAdvertList() {
         </Table.Body>
       </Table>
     </div>
+    
   );
 }
